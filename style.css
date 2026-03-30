@@ -1,0 +1,18 @@
+/*Style*/
+
+* {
+box-sizing: border-box;
+}
+.odin-heading
+{
+    background-color: gray;
+}
+.food-heading
+{
+background-color: red; color : white;
+width: 800px;
+}
+.food-heading.two,.food-image.two
+{
+margin-left: 800px;
+}
